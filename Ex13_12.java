@@ -19,13 +19,13 @@ public class Ex13_12 {
 					txtX.setText(Integer.toString(e.getX()));
 					txtY.setText(Integer.toString(e.getY()));
 				}
-				pubilc void mouseEntered(MouseEvent e) {				
+				public void mouseEntered(MouseEvent e) {				
 				}
-				pubilc void mouseExited(MouseEvent e) {
+				public void mouseExited(MouseEvent e) {
 				}
-				pubilc void mousepressed(MouseEvent e) {
+				public void mousepressed(MouseEvent e) {
 				}
-				pubilc void mouseReleased(MouseEvent e) {
+				public void mouseReleased(MouseEvent e) {
 				}
 			});
 			
